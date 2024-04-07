@@ -1,0 +1,1 @@
+Um grafo não direcionado é um tipo de grafo em que as arestas não têm direção associada, ou seja, elas não têm uma origem ou destino definidos. Em outras palavras, se há uma aresta que conecta dois vértices, ela pode ser percorrida em ambas as direções. Isso significa que a relação entre os vértices é simétrica.
